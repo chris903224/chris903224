@@ -5,19 +5,19 @@
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=150&section=header&animation=fadeIn" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=100&section=header&animation=fadeIn" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=46&duration=2500&pause=100000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=850&height=75&lines=CHRISTIAN+VILLANUEVA" alt="Christian Villanueva" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=2500&pause=100000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=CHRISTIAN+VILLANUEVA" alt="Christian Villanueva" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2500&pause=100000&repeat=false&color=5EEAD4&center=true&vCenter=true&width=700&height=35&lines=BSIT+Student+%C2%B7+Full+Stack+Developer" alt="BSIT Student · Full Stack Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&duration=2500&pause=100000&repeat=false&color=5EEAD4&center=true&vCenter=true&width=600&height=28&lines=BSIT+Student+%C2%B7+Full+Stack+Developer" alt="BSIT Student · Full Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
 </p>
 
 <!-- ══════════ BADGES ══════════ -->
@@ -39,7 +39,7 @@
 
 <!-- ══════════ ABOUT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CAbout+%2F%3E" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CAbout+%2F%3E" alt="About" />
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ const christian = {
 
 <!-- ══════════ TECH STACK ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CStack+%2F%3E" alt="Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CStack+%2F%3E" alt="Stack" />
 </p>
 
 <table align="center">
@@ -92,7 +92,7 @@ const christian = {
 
 <!-- ══════════ PROJECTS ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CProjects+%2F%3E" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CProjects+%2F%3E" alt="Projects" />
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ const christian = {
 
 <!-- ══════════ EXPERIENCE ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CExperience+%2F%3E" alt="Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CExperience+%2F%3E" alt="Experience" />
 </p>
 
 <table align="center">
@@ -150,7 +150,7 @@ const christian = {
 
 <!-- ══════════ ACTIVITY ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CActivity+%2F%3E" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CActivity+%2F%3E" alt="Activity" />
 </p>
 
 <p align="center">
@@ -166,7 +166,7 @@ const christian = {
 
 <!-- ══════════ CONTACT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CContact+%2F%3E" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=19&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=34&lines=%3CContact+%2F%3E" alt="Contact" />
 </p>
 
 <p align="center">
@@ -195,5 +195,5 @@ const christian = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=120&section=footer&animation=fadeIn" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=80&section=footer&animation=fadeIn" alt="" />
 </p>
