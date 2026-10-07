@@ -14,8 +14,9 @@
 
 <!-- ══════════ BADGES ══════════ -->
 <p align="center">
-  <a href="https://chris-portfoliowebapp.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW_PROJECTS-0f766e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1f24" alt="Portfolio" /></a>
-  <a href="https://chriss-resume.vercel.app/"><img src="https://img.shields.io/badge/RESUME-VIEW-0f766e?style=for-the-badge&logo=readme&logoColor=white&labelColor=0d1f24" alt="Resume" /></a>
+  <a href="https://chris-portfoliowebapp.vercel.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://chriss-resume.vercel.app/"><img src="assets/btn-resume.svg" height="46" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -109,8 +110,9 @@ const christian = {
 </p>
 
 <p align="center">
-  <a href="https://generatedcontrolnumber.vercel.app/"><img src="https://img.shields.io/badge/LIVE-GENERATED_CONTROL_NUMBER-0f766e?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1f24" alt="Generated Control Number" /></a>
-  <a href="https://christianportfolio0110.netlify.app/"><img src="https://img.shields.io/badge/LIVE-NETLIFY_PORTFOLIO-0f766e?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1f24" alt="Netlify Portfolio" /></a>
+  <a href="https://generatedcontrolnumber.vercel.app/"><img src="assets/btn-live-control.svg" height="46" alt="Generated Control Number" /></a>
+  &nbsp;
+  <a href="https://christianportfolio0110.netlify.app/"><img src="assets/btn-live-netlify.svg" height="46" alt="Netlify Portfolio" /></a>
 </p>
 
 <br />
@@ -161,14 +163,17 @@ const christian = {
 </p>
 
 <p align="center">
-  <a href="mailto:christianvillanuevac9@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0f766e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1f24" alt="Gmail" /></a>
-  <a href="https://github.com/chris903224"><img src="https://img.shields.io/badge/GITHUB-0f766e?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1f24" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/chrsvilla_/"><img src="https://img.shields.io/badge/INSTAGRAM-0f766e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1f24" alt="Instagram" /></a>
+  <a href="mailto:christianvillanuevac9@gmail.com"><img src="assets/btn-gmail.svg" height="46" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://github.com/chris903224"><img src="assets/btn-github.svg" height="46" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/chrsvilla_/"><img src="assets/btn-instagram.svg" height="46" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <a href="https://tiktok.com/@chris_devvv"><img src="https://img.shields.io/badge/TIKTOK-0f766e?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d1f24" alt="TikTok" /></a>
-  <a href="https://www.facebook.com/chrisvilla.cj/"><img src="https://img.shields.io/badge/FACEBOOK-0f766e?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1f24" alt="Facebook" /></a>
+  <a href="https://tiktok.com/@chris_devvv"><img src="assets/btn-tiktok.svg" height="46" alt="TikTok" /></a>
+  &nbsp;
+  <a href="https://www.facebook.com/chrisvilla.cj/"><img src="assets/btn-facebook.svg" height="46" alt="Facebook" /></a>
 </p>
 
 <br />
