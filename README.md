@@ -5,11 +5,19 @@
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=250&section=header&text=CHRISTIAN%20VILLANUEVA&fontSize=52&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descAlignY=62&descSize=20&descAlign=50" alt="Christian Villanueva — BSIT Student / Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=150&section=header&animation=fadeIn" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1200&color=5EEAD4&center=true&vCenter=true&width=700&height=40&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=46&duration=2500&pause=100000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=850&height=75&lines=CHRISTIAN+VILLANUEVA" alt="Christian Villanueva" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2500&pause=100000&repeat=false&color=5EEAD4&center=true&vCenter=true&width=700&height=35&lines=BSIT+Student+%C2%B7+Full+Stack+Developer" alt="BSIT Student · Full Stack Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
 </p>
 
 <!-- ══════════ BADGES ══════════ -->
@@ -23,22 +31,22 @@
   <a href="https://github.com/chris903224?tab=followers">
     <img src="https://img.shields.io/github/followers/chris903224?label=Followers&style=flat-square&color=134e4a&labelColor=0d1117" alt="Followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=chris903224&label=Profile%20Views&color=134e4a&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://hits.sh/github.com/chris903224.svg?style=flat-square&label=Profile%20Views&color=134e4a&labelColor=0d1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open_to_Work-10b981?style=flat-square&labelColor=0d1117" alt="Open to Work" />
 </p>
 
 <br />
 
 <!-- ══════════ ABOUT ══════════ -->
-<h2 align="center">&lt;About /&gt;</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CAbout+%2F%3E" alt="About" />
+</p>
 
 <p align="center">
-  <sub>
-    I'm passionate about Information Technology and always willing to learn the technologies the industry needs.<br />
-    I started with frontend, learning to build and design user interfaces, then moved into backend with Spring Boot<br />
-    to understand how systems work behind the scenes. It was challenging, and it sharpened my problem-solving.<br />
-    My goal is to become a professional software developer and build applications people use in real life.
-  </sub>
+  I'm passionate about Information Technology and always willing to learn the technologies the industry needs.<br />
+  I started with frontend, learning to build and design user interfaces, then moved into backend with Spring Boot<br />
+  to understand how systems work behind the scenes. It was challenging, and it sharpened my problem-solving.<br />
+  <b>My goal is to become a professional software developer and build applications people use in real life.</b>
 </p>
 
 ```ts
@@ -56,7 +64,9 @@ const christian = {
 <br />
 
 <!-- ══════════ TECH STACK ══════════ -->
-<h2 align="center">&lt;Stack /&gt;</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CStack+%2F%3E" alt="Stack" />
+</p>
 
 <table align="center">
   <tr>
@@ -80,8 +90,10 @@ const christian = {
 
 <br />
 
-<!-- ══════════ FEATURED PROJECTS ══════════ -->
-<h2 align="center">&lt;Projects /&gt;</h2>
+<!-- ══════════ PROJECTS ══════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CProjects+%2F%3E" alt="Projects" />
+</p>
 
 <p align="center">
   <a href="https://github.com/chris903224/CampusCommerce-System">
@@ -113,7 +125,9 @@ const christian = {
 <br />
 
 <!-- ══════════ EXPERIENCE ══════════ -->
-<h2 align="center">&lt;Experience /&gt;</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CExperience+%2F%3E" alt="Experience" />
+</p>
 
 <table align="center">
   <tr>
@@ -135,7 +149,9 @@ const christian = {
 <br />
 
 <!-- ══════════ ACTIVITY ══════════ -->
-<h2 align="center">&lt;Activity /&gt;</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CActivity+%2F%3E" alt="Activity" />
+</p>
 
 <p align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=chris903224&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -149,7 +165,9 @@ const christian = {
 <br />
 
 <!-- ══════════ CONTACT ══════════ -->
-<h2 align="center">&lt;Contact /&gt;</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CContact+%2F%3E" alt="Contact" />
+</p>
 
 <p align="center">
   <a href="mailto:christianvillanuevac9@gmail.com">
@@ -177,5 +195,5 @@ const christian = {
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,50:0b1a1f,100:0f766e&height=120&section=footer&animation=fadeIn" alt="" />
 </p>
