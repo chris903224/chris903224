@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--              CHRISTIAN VILLANUEVA · GITHUB README          -->
-<!--              Glassmorphism-inspired Design                 -->
+<!--              Glassmorphism-Inspired Design                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- ══════════ ANIMATED GLASS HEADER ══════════ -->
@@ -31,7 +31,7 @@
 
 <br />
 
-<!-- ══════════ ABOUT ME (Glass Card Style) ══════════ -->
+<!-- ══════════ ABOUT ME ══════════ -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/━━━%20🚀%20About%20Me%20━━━-6366f1?style=for-the-badge&labelColor=6366f1" alt="About Me" />
 </h2>
@@ -59,7 +59,7 @@
 
 <br />
 
-<!-- ══════════ TECH STACK (Glass Card) ══════════ -->
+<!-- ══════════ TECH STACK ══════════ -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/━━━%20🛠️%20Tech%20Stack%20━━━-8b5cf6?style=for-the-badge&labelColor=8b5cf6" alt="Tech Stack" />
 </h2>
@@ -81,14 +81,14 @@
 
 <br />
 
-<!-- ══════════ GITHUB STATS (Glass Cards) ══════════ -->
+<!-- ══════════ GITHUB STATS ══════════ -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/━━━%20📊%20GitHub%20Stats%20━━━-ec4899?style=for-the-badge&labelColor=ec4899" alt="GitHub Stats" />
 </h2>
 
 <p align="center">
   <a href="https://github.com/chris903224">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris903224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=EC4899" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chris903224&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris903224&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
   </a>
 </p>
@@ -101,33 +101,7 @@
 
 <br />
 
-<!-- ══════════ TROPHIES (Glass Style) ══════════ -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/━━━%20🏆%20Trophies%20━━━-f59e0b?style=for-the-badge&labelColor=f59e0b" alt="Trophies" />
-</h2>
-
-<p align="center">
-  <a href="https://github.com/chris903224">
-    <img src="https://github-profile-trophy.vercel.app/?username=chris903224&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br />
-
-<!-- ══════════ CONTRIBUTION GRAPH ══════════ -->
-<h2 align="center">
-  <img src="https://img.shields.io/badge/━━━%20📈%20Activity%20Graph%20━━━-10b981?style=for-the-badge&labelColor=10b981" alt="Activity" />
-</h2>
-
-<p align="center">
-  <a href="https://github.com/chris903224">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chris903224&custom_title=Christian's%20Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=6366F1&point=EC4899&area=true&area_color=6366F1&hide_border=true&title_color=EC4899" alt="Activity Graph" />
-  </a>
-</p>
-
-<br />
-
-<!-- ══════════ FEATURED PROJECTS (Glass Cards) ══════════ -->
+<!-- ══════════ FEATURED PROJECTS ══════════ -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/━━━%20🌟%20Featured%20Projects%20━━━-6366f1?style=for-the-badge&labelColor=6366f1" alt="Projects" />
 </h2>
@@ -152,14 +126,14 @@
 
 <br />
 
-<!-- ══════════ CONNECT WITH ME (Glass Cards) ══════════ -->
+<!-- ══════════ CONNECT WITH ME ══════════ -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/━━━%20🤝%20Connect%20with%20Me%20━━━-8b5cf6?style=for-the-badge&labelColor=8b5cf6" alt="Connect" />
 </h2>
 
 <p align="center">
   <a href="mailto:christianvillanuevac9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.facebook.com/chrisvilla.cj/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
