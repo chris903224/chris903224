@@ -5,7 +5,7 @@
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img width="700" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d3a,50:0f766e,100:134e4a&height=220&section=header&stroke=5eead4&strokeWidth=2&text=CHRISTIAN%20VILLANUEVA&fontFamily=Tahoma%2CVerdana%2Csans-serif&fontSize=48&fontColor=d1d5db&fontAlignY=42&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=24&descAlignY=64&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
+  <img width="700" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d3a,50:0f766e,100:134e4a&height=220&section=header&stroke=5eead4&strokeWidth=2&text=CHRISTIAN%20VILLANUEVA&fontFamily=Georgia%2CTimes%20New%20Roman%2Cserif&fontSize=52&fontColor=d1d5db&fontAlignY=42&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=24&descAlignY=64&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 <!-- ══════════ ABOUT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CAbout+%2F%3E" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CAbout+%2F%3E" alt="About" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ const christian = {
 
 <!-- ══════════ STACK ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CStack+%2F%3E" alt="Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CStack+%2F%3E" alt="Stack" />
 </p>
 
 <p align="center"><sub><b>FRONTEND</b></sub></p>
@@ -87,7 +87,7 @@ const christian = {
 
 <!-- ══════════ PROJECTS ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CProjects+%2F%3E" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CProjects+%2F%3E" alt="Projects" />
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ const christian = {
 
 <!-- ══════════ EXPERIENCE ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CExperience+%2F%3E" alt="Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CExperience+%2F%3E" alt="Experience" />
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@ const christian = {
 
 <!-- ══════════ ACTIVITY ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CActivity+%2F%3E" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CActivity+%2F%3E" alt="Activity" />
 </p>
 
 <p align="center">
@@ -153,7 +153,7 @@ const christian = {
 
 <!-- ══════════ CONTACT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CContact+%2F%3E" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CContact+%2F%3E" alt="Contact" />
 </p>
 
 <p align="center">
