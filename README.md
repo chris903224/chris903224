@@ -14,9 +14,9 @@
 
 <!-- ══════════ BADGES ══════════ -->
 <p align="center">
-  <a href="https://chris-portfoliowebapp.vercel.app"><img src="assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
+  <a href="https://chris-portfoliowebapp.vercel.app"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-portfolio.svg" height="46" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://chriss-resume.vercel.app/"><img src="assets/btn-resume.svg" height="46" alt="Resume" /></a>
+  <a href="https://chriss-resume.vercel.app/"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-resume.svg" height="46" alt="Resume" /></a>
 </p>
 
 <p align="center">
@@ -110,9 +110,9 @@ const christian = {
 </p>
 
 <p align="center">
-  <a href="https://generatedcontrolnumber.vercel.app/"><img src="assets/btn-live-control.svg" height="46" alt="Generated Control Number" /></a>
+  <a href="https://generatedcontrolnumber.vercel.app/"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-live-control.svg" height="46" alt="Generated Control Number" /></a>
   &nbsp;
-  <a href="https://christianportfolio0110.netlify.app/"><img src="assets/btn-live-netlify.svg" height="46" alt="Netlify Portfolio" /></a>
+  <a href="https://christianportfolio0110.netlify.app/"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-live-netlify.svg" height="46" alt="Netlify Portfolio" /></a>
 </p>
 
 <br />
@@ -163,17 +163,17 @@ const christian = {
 </p>
 
 <p align="center">
-  <a href="mailto:christianvillanuevac9@gmail.com"><img src="assets/btn-gmail.svg" height="46" alt="Gmail" /></a>
+  <a href="mailto:christianvillanuevac9@gmail.com"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-gmail.svg" height="46" alt="Gmail" /></a>
   &nbsp;
-  <a href="https://github.com/chris903224"><img src="assets/btn-github.svg" height="46" alt="GitHub" /></a>
+  <a href="https://github.com/chris903224"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-github.svg" height="46" alt="GitHub" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/chrsvilla_/"><img src="assets/btn-instagram.svg" height="46" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/chrsvilla_/"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-instagram.svg" height="46" alt="Instagram" /></a>
 </p>
 
 <p align="center">
-  <a href="https://tiktok.com/@chris_devvv"><img src="assets/btn-tiktok.svg" height="46" alt="TikTok" /></a>
+  <a href="https://tiktok.com/@chris_devvv"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-tiktok.svg" height="46" alt="TikTok" /></a>
   &nbsp;
-  <a href="https://www.facebook.com/chrisvilla.cj/"><img src="assets/btn-facebook.svg" height="46" alt="Facebook" /></a>
+  <a href="https://www.facebook.com/chrisvilla.cj/"><img src="https://raw.githubusercontent.com/chris903224/chris903224/main/assets/btn-facebook.svg" height="46" alt="Facebook" /></a>
 </p>
 
 <br />
