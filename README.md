@@ -5,15 +5,7 @@
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1f24,100:0f766e&height=160&section=header&animation=fadeIn" alt="" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=26&duration=2500&pause=100000&repeat=false&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=CHRISTIAN+VILLANUEVA" alt="Christian Villanueva" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=2500&pause=100000&repeat=false&color=5EEAD4&center=true&vCenter=true&width=700&height=35&lines=BSIT+Student+%C2%B7+Full+Stack+Developer" alt="BSIT Student · Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=210&section=header&text=CHRISTIAN%20VILLANUEVA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
 </p>
 
 <p align="center">
