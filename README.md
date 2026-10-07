@@ -5,7 +5,7 @@
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img width="700" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=260&section=header&text=CHRISTIAN%20VILLANUEVA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=26&descAlignY=58&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
+  <img width="700" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=260&section=header&text=CHRISTIAN%20VILLANUEVA&fontFamily=Tahoma%2CVerdana%2Csans-serif&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=26&descAlignY=58&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
 </p>
 
 <p align="center">
