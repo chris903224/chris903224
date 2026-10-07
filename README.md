@@ -1,15 +1,15 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--   CHRISTIAN VILLANUEVA · GITHUB PROFILE README              -->
-<!--   Dark · cinematic · code-first (matches portfolio site)    -->
+<!--   Compact layout (~700px) · dark · code-first               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <!-- ══════════ HERO ══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=210&section=header&text=CHRISTIAN%20VILLANUEVA&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
+  <img width="700" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=260&section=header&text=CHRISTIAN%20VILLANUEVA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=BSIT%20Student%20%C2%B7%20Full%20Stack%20Developer&descSize=26&descAlignY=58&animation=fadeIn" alt="Christian Villanueva — BSIT Student · Full Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=32&lines=%3Ccode%3E+learning+how+complete+web+apps+are+built+%3C%2Fcode%3E;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack;React+%C2%B7+TypeScript+%C2%B7+Spring+Boot+%C2%B7+PostgreSQL" alt="Typing intro" />
 </p>
 
 <!-- ══════════ BADGES ══════════ -->
@@ -31,15 +31,22 @@
 
 <!-- ══════════ ABOUT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CAbout+%2F%3E" alt="About" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CAbout+%2F%3E" alt="About" />
 </p>
 
-<p align="center">
-  I'm passionate about Information Technology and always willing to learn the technologies the industry needs.<br />
-  I started with frontend, learning to build and design user interfaces, then moved into backend with Spring Boot<br />
-  to understand how systems work behind the scenes. It was challenging, and it sharpened my problem-solving.<br />
-  <b>My goal is to become a professional software developer and build applications people use in real life.</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="600">
+      <sub>
+        I'm passionate about Information Technology and always willing to learn the technologies the industry needs.
+        I started with frontend, learning to build and design user interfaces, then moved into backend with Spring Boot
+        to understand how systems work behind the scenes. It was challenging, and it sharpened my problem-solving.
+      </sub>
+      <br /><br />
+      <b>My goal is to become a professional software developer<br />and build applications people use in real life.</b>
+    </td>
+  </tr>
+</table>
 
 ```ts
 const christian = {
@@ -49,7 +56,6 @@ const christian = {
   focus:     ["Full-stack web apps", "Backend with Spring Boot"],
   cert:      "Collaborative Robot Programming NC 3 (TESDA)",
   languages: ["Filipino (Native)", "English"],
-  goal:      "Become a professional software developer",
 };
 ```
 
@@ -57,24 +63,24 @@ const christian = {
 
 <!-- ══════════ TECH STACK ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CStack+%2F%3E" alt="Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CStack+%2F%3E" alt="Stack" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="340">
+    <td align="center" width="230">
       <br /><code>frontend</code><br /><br />
-      <img src="https://skillicons.dev/icons?i=react,html,css,js,ts&perline=5&theme=dark" alt="Frontend" />
+      <img width="200" src="https://skillicons.dev/icons?i=react,html,css,js,ts&perline=5&theme=dark" alt="Frontend" />
       <br /><br />
     </td>
-    <td align="center" width="260">
+    <td align="center" width="170">
       <br /><code>backend</code><br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,spring,postgres&perline=3&theme=dark" alt="Backend" />
+      <img width="125" src="https://skillicons.dev/icons?i=nodejs,spring,postgres&perline=3&theme=dark" alt="Backend" />
       <br /><br />
     </td>
-    <td align="center" width="340">
+    <td align="center" width="230">
       <br /><code>tools</code><br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea&perline=5&theme=dark" alt="Tools" />
+      <img width="200" src="https://skillicons.dev/icons?i=git,github,vercel,vscode,idea&perline=5&theme=dark" alt="Tools" />
       <br /><br />
     </td>
   </tr>
@@ -84,24 +90,24 @@ const christian = {
 
 <!-- ══════════ PROJECTS ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CProjects+%2F%3E" alt="Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CProjects+%2F%3E" alt="Projects" />
 </p>
 
 <p align="center">
   <a href="https://github.com/chris903224/CampusCommerce-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=CampusCommerce-System&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="CampusCommerce System" />
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=CampusCommerce-System&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="CampusCommerce System" />
   </a>
   <a href="https://github.com/chris903224/Merchandise-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=Merchandise-System&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Merchandise System" />
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=Merchandise-System&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Merchandise System" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chris903224/Wave-Jumper-Shooter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=Wave-Jumper-Shooter&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Wave Jumper Shooter" />
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=Wave-Jumper-Shooter&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Wave Jumper Shooter" />
   </a>
   <a href="https://github.com/chris903224/christianportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=christianportfolio&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Portfolio" />
+    <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=chris903224&repo=christianportfolio&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9" alt="Portfolio" />
   </a>
 </p>
 
@@ -118,21 +124,21 @@ const christian = {
 
 <!-- ══════════ EXPERIENCE ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CExperience+%2F%3E" alt="Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CExperience+%2F%3E" alt="Experience" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="230">
-      <br /><code>2026</code><br /><b>E-Commerce Developer</b><br /><sub>CampusCommerce System<br />(Full-Stack)</sub><br /><br />
+    <td align="center" width="170">
+      <br /><code>2026</code><br /><b>E-Commerce Developer</b><br /><sub>CampusCommerce<br />(Full-Stack)</sub><br /><br />
     </td>
-    <td align="center" width="230">
-      <br /><code>2026</code><br /><b>HK Portal</b><br /><sub>Online Support System</sub><br /><br />
+    <td align="center" width="170">
+      <br /><code>2026</code><br /><b>HK Portal</b><br /><sub>Online Support<br />System</sub><br /><br />
     </td>
-    <td align="center" width="230">
+    <td align="center" width="170">
       <br /><code>2025</code><br /><b>BSIT · 2nd Year</b><br /><sub>Phinma Saint Jude<br />College Manila</sub><br /><br />
     </td>
-    <td align="center" width="230">
+    <td align="center" width="170">
       <br /><code>2025</code><br /><b>Cobot Programming NC 3</b><br /><sub>TESDA<br />Certification</sub><br /><br />
     </td>
   </tr>
@@ -142,40 +148,40 @@ const christian = {
 
 <!-- ══════════ ACTIVITY ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CActivity+%2F%3E" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CActivity+%2F%3E" alt="Activity" />
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=chris903224&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris903224&layout=compact&langs_count=8&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&text_color=c9d1d9" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chris903224&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris903224&layout=compact&langs_count=8&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0d&title_color=5eead4&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chris903224&hide_border=false&border_radius=16&border=ffffff1f&background=ffffff0d&stroke=ffffff1f&ring=2dd4bf&fire=5eead4&currStreakNum=5eead4&currStreakLabel=5eead4&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img width="400" src="https://streak-stats.demolab.com?user=chris903224&hide_border=false&border_radius=16&border=ffffff1f&background=ffffff0d&stroke=ffffff1f&ring=2dd4bf&fire=5eead4&currStreakNum=5eead4&currStreakLabel=5eead4&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <br />
 
 <!-- ══════════ CONTACT ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=400&height=45&lines=%3CContact+%2F%3E" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2000&pause=100000&repeat=false&color=E6EDF3&center=true&vCenter=true&width=300&height=38&lines=%3CContact+%2F%3E" alt="Contact" />
 </p>
 
 <p align="center">
   <a href="mailto:christianvillanuevac9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/chris903224">
-    <img src="https://img.shields.io/badge/GitHub-24292f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/chrsvilla_/">
-    <img src="https://img.shields.io/badge/Instagram-134e4a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-134e4a?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://tiktok.com/@chris_devvv">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://www.facebook.com/chrisvilla.cj/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
@@ -183,9 +189,9 @@ const christian = {
 
 <!-- ══════════ SIGN-OFF ══════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=650&height=30&lines=//+Still+a+lot+to+learn.+Excited+to+keep+growing." alt="Sign-off" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=600&height=28&lines=//+Still+a+lot+to+learn.+Excited+to+keep+growing." alt="Sign-off" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d1f24,100:0f766e&height=120&section=footer&animation=fadeIn" alt="" />
+  <img width="700" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2a2e,100:0f766e&height=140&section=footer&animation=fadeIn" alt="" />
 </p>
