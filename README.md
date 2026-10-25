@@ -52,19 +52,11 @@ An academic e-commerce system exploring frontend-to-backend workflows and server
 - Focused on understanding how backend services, repositories, and controllers support application workflows.
 > Repository: [CampusCommerce-System](https://github.com/chris903224/CampusCommerce-System)
 
-**Gene Therapy and Stem Cell Research — Educational Website**  
-An academic Science, Technology, and Society project focused on presenting gene therapy, stem cell research, and related ethical and social issues.
-- Designed a science-themed web experience with visual storytelling.
-- Explored 3D visuals, animation, and scroll-based presentation to make educational content engaging.
-- Combined visual design with structured educational content and references.
-
----
-
-### Other Projects
-
-- [Portfolio Website](https://chris-portfoliowebapp.vercel.app) — personal web portfolio.
-- [Wave Jumper Shooter](https://github.com/chris903224) — game project.
-- [Generated Control Number](https://github.com/chris903224) — live web utility.
+**Generated Control Number — Live Web Utility**  
+A web-based utility designed to generate unique control numbers for practical use.
+- Focused on clean interface and reliable generation logic.
+- Explored utility-first web application design.
+> Repository: [Generated-Control-Number](https://github.com/chris903224)
 
 ---
 
