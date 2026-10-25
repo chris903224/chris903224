@@ -1,8 +1,4 @@
 
-  CHRISTIAN VILLANUEVA | GitHub Profile README
-  Clean, project-focused, and aligned with current skills and academic experience.
--->
-
 <p align="center">
   <img width="850" src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:374151,100:111827&height=210&section=header&text=CHRISTIAN%20VILLANUEVA&fontFamily=Georgia&fontSize=44&fontColor=F3F4F6&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=64" alt="Christian Villanueva — Aspiring Software Engineer and Full-Stack Developer" />
 </p>
