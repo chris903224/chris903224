@@ -1,6 +1,4 @@
-from pathlib import Path
 
-content = r'''<!--
   CHRISTIAN VILLANUEVA | GitHub Profile README
   Clean, project-focused, and aligned with current skills and academic experience.
 -->
